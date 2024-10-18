@@ -37,38 +37,38 @@
             android:text="3 задание" />
 
         <Button
-            android:id="@+id/button8"
+            android:id="@+id/forTaskBut"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="4 задание" />
 
         <Button
-            android:id="@+id/button9"
+            android:id="@+id/task5But"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="5 задание" />
 
         <Button
-            android:id="@+id/button10"
+            android:id="@+id/task6But"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="6 задание" />
 
         <Button
-            android:id="@+id/button11"
+            android:id="@+id/task7But"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="7 задание" />
 
         <Button
-            android:id="@+id/button12"
+            android:id="@+id/task8But"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="8 задание" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
